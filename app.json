@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Mi Dashboard",
+    "slug": "mi-dashboard-rudolf",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.santiagovelandia.midashboard"
+    }
+  }
+}
